@@ -32,8 +32,7 @@ A fun and interactive memory-based web game built using **HTML**, **CSS**, and *
 # Creator
 Made with ❤️ by Sakshi
 
-# License
-This project is open-source.
+
 
 
 
