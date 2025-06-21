@@ -4,8 +4,8 @@ A fun and interactive memory-based web game built using **HTML**, **CSS**, and *
 
 ## 🔗 Live Demo
 
-<!-- If hosted on GitHub Pages or any other platform, replace the below line with your actual link -->
-[Play the Game](#)
+[Play the Game](https://sakshi330g.github.io/simon-says-game/)
+
 
 ## 🧠 How to Play
 
