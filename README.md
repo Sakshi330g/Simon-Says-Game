@@ -29,5 +29,11 @@ A fun and interactive memory-based web game built using **HTML**, **CSS**, and *
 - CSS
 - JavaScript
 
+# Creator
+Made with ❤️ by [Your Name]
+
+# License
+This project is open-source.
+
 
 
